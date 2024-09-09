@@ -1,3 +1,5 @@
+1.WAP to calculate the perimeter of rectangle.
+
 #include <stdio.h>
 
 int main() {
