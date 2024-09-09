@@ -1,3 +1,5 @@
+2.WAP to swap two number entered by user.
+
 #include <stdio.h>
 
 int main() {
