@@ -1,3 +1,4 @@
+3.WAP to sift the last digit to the first position. if the input is a 3 digit number.
 #include <stdio.h>
 
 int main() {
